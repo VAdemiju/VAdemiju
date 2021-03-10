@@ -8,4 +8,6 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Programming is a superpower :)
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=VAdemiju)
+-->
