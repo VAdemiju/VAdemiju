@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: React
 - 👯 I’m looking to collaborate with any frontend developer using React :)
 - 💬 Ask me about: Django
-- 📫 You can reach out to me via mail at ademijuvictor@gmail.com or Twitter at www.twitter.com/VAdemiju - VicTor is the name :)
+- 📫 You can reach out to me via [Mail](ademijuvictor@gmail.com), [Twitter](www.twitter.com/VAdemiju) or [Facebook](www.facebook.com) - VicTor is the name :)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Programming is a superpower :)
 
